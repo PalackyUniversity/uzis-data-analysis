@@ -1,0 +1,7 @@
+data/130055230807.xlsx filter=lfs diff=lfs merge=lfs -text
+data/DEMD003-CR-F.xlsx filter=lfs diff=lfs merge=lfs -text
+data/DEMD003-CR-M.xlsx filter=lfs diff=lfs merge=lfs -text
+At_Risk.csv filter=lfs diff=lfs merge=lfs -text
+Died.csv filter=lfs diff=lfs merge=lfs -text
+UZISdata.RData filter=lfs diff=lfs merge=lfs -text
+data/Vesely_106_202403141131.tar.xz filter=lfs diff=lfs merge=lfs -text
